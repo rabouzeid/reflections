@@ -22,5 +22,7 @@ Diagrams show the sequence of commits and shows reacahbility
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+great collaboration tool. many people can particiapte in coding.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
