@@ -17,6 +17,8 @@ Branches are good if having multiple versions or multiple languages i.e
 
 How do the diagrams help you visualize the branch structure?
 
+Diagrams show the sequence of commits and shows reacahbility
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
