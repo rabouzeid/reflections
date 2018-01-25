@@ -26,3 +26,4 @@ great collaboration tool. many people can particiapte in coding.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Manual lets u fix code.
