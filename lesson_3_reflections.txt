@@ -1,1 +1,7 @@
 When would you want to create a remote repository rather than keeping all your work local?
+
+Describe the differences between forks , branches and clones. When would you use on instead of other.
+
+Fork= on repository
+Branch= local
+Clones= both
