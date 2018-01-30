@@ -5,3 +5,7 @@ Describe the differences between forks , branches and clones. When would you use
 Fork= on repository
 Branch= local
 Clones= both
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Not sure of the answer
