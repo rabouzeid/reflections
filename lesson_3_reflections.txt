@@ -1,5 +1,6 @@
 When would you want to create a remote repository rather than keeping all your work local?
 
+
 Describe the differences between forks , branches and clones. When would you use on instead of other.
 
 Fork= on repository
@@ -9,3 +10,9 @@ Clones= both
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Not sure of the answer
+
+
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Ans: Automatically might be a logical ending to a change.
+
